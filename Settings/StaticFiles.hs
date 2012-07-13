@@ -1,3 +1,4 @@
+{-# LANGUAGE TemplateHaskell, OverloadedStrings #-}
 module Settings.StaticFiles where
 
 import Prelude (IO)

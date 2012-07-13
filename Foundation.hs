@@ -1,3 +1,4 @@
+{-# LANGUAGE TemplateHaskell, OverloadedStrings, MultiParamTypeClasses, TypeFamilies #-}
 module Foundation
     ( App (..)
     , Route (..)
